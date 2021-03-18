@@ -1,0 +1,2 @@
+# devopspractical
+Practical of devops
